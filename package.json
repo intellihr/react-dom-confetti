@@ -29,7 +29,7 @@
     "webpack": "^2.3.3"
   },
   "dependencies": {
-    "dom-confetti": "intellihr/dom-confetti#master"
+    "dom-confetti": "intellihr/dom-confetti#iOS-fix"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
